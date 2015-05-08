@@ -12,6 +12,9 @@ filetype indent plugin on
 " Enable syntax highlighting
 syntax on
 
+" Enable hiding of buffers
+set hidden
+
 " Show partial commands in the last line of the screen
 set showcmd
 
